@@ -1,5 +1,5 @@
 from setuptools import find_packages, setup
-
+#just a comment
 setup(name="contest",
       version="0.2",
       description="Tools for Weights & Biases DAVIS Video Segmentation Contest",
